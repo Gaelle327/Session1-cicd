@@ -1,1 +1,2 @@
-raise Exception("This module is not meant to be imported.")
+print("fixed")
+print("fixed again!")
