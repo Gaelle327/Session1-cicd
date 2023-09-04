@@ -9,4 +9,4 @@ jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
     steps:
-      - run: python fix.py
+      - run: python main.py
